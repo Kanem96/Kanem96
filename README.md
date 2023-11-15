@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kane Milligan</h1>
+<h1 align="center">Hi 👋, I'm</h1>
 <h3 align="center">A full-stack engineer based in the UK</h3>
 
 - 🌱 I’m currently learning **C++**

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kane</h1>
 <h3 align="center">A full-stack engineer based in the UK</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently working studying **MSc Computer Science++**
 
 - 👯 I’m looking to collaborate on **anything**
 

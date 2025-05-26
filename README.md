@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [kane-milligan.vercel.app](kane-milligan.vercel.app)
-
 - 📫 You can contact me at **kanemilligan1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
